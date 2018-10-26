@@ -7,7 +7,6 @@
  */
 
 using System;
-using System.Collections.Generic;
 using DataStructures.Common;
 
 namespace DataStructures.Lists
